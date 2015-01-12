@@ -27,4 +27,4 @@ Feel free to use your favorite scripting language as well as any open source fra
 
 Deliverable
 -----------
-The deliverable is a screencast no more than 15 minutes long walking us through your solution and highlighting areas that were especially challenging or interesting to you.
+The deliverable is a screencast no more than 15 minutes long walking us through your solution and highlighting areas that were especially challenging or interesting to you. Please submit your solution and screencast in English. Thanks!
